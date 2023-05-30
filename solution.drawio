@@ -1,23 +1,41 @@
-<mxfile host="app.diagrams.net" modified="2023-05-30T13:39:11.910Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="WIQUX5iLNDvjSUB9fUrL" version="21.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-30T13:44:30.184Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="Nx6vCuH2-ceu54wh7ghN" version="21.3.5" type="github">
   <diagram name="Page-1" id="I_ngALfB866X6ck2DSHW">
     <mxGraphModel dx="1363" dy="880" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="h1O3plPJuN3wcp4LjX40-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="320" width="120" height="200" as="geometry" />
+        </mxCell>
         <mxCell id="JewFtYphriM5EpTcfLSR-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="160" y="320" width="120" height="200" as="geometry" />
+          <mxGeometry x="280" y="320" width="490" height="200" as="geometry" />
         </mxCell>
         <mxCell id="h1O3plPJuN3wcp4LjX40-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://humancoders-formations.s3.amazonaws.com/uploads/course/logo/155/formation-gitlab.png;" vertex="1" parent="1">
-          <mxGeometry x="190" y="390" width="60" height="60" as="geometry" />
+          <mxGeometry x="150" y="390" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h1O3plPJuN3wcp4LjX40-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/9/99/Sample_User_Icon.png;" vertex="1" parent="1">
           <mxGeometry x="10" y="390" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="h1O3plPJuN3wcp4LjX40-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="320" width="120" height="200" as="geometry" />
+        <mxCell id="h1O3plPJuN3wcp4LjX40-6" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png;" vertex="1" parent="1">
+          <mxGeometry x="286.58" y="330" width="58.42" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="h1O3plPJuN3wcp4LjX40-9" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="370" width="160" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="h1O3plPJuN3wcp4LjX40-5" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png;" vertex="1" parent="1">
+          <mxGeometry x="408.27" y="395" width="43.46" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h1O3plPJuN3wcp4LjX40-10" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="370" width="160" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="h1O3plPJuN3wcp4LjX40-7" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ansible_logo.svg/1664px-Ansible_logo.svg.png;" vertex="1" parent="1">
+          <mxGeometry x="587.5" y="385" width="65" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="h1O3plPJuN3wcp4LjX40-11" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="560" width="120" height="200" as="geometry" />
         </mxCell>
         <mxCell id="h1O3plPJuN3wcp4LjX40-4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.sparks-formation.com/wp-content/uploads/2020/06/iis-logo.png;" vertex="1" parent="1">
-          <mxGeometry x="347" y="405" width="66" height="30" as="geometry" />
+          <mxGeometry x="307" y="645" width="66" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
