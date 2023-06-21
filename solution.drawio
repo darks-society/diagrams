@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-21T09:24:49.153Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="JH-Z4Twuv8g7ncN58xUG" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-21T09:27:09.402Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="C-uASK9Mjf2RNGVqEr2u" version="21.5.0" type="github">
   <diagram name="Page-1" id="I_ngALfB866X6ck2DSHW">
     <mxGraphModel dx="2417" dy="1027" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -248,6 +248,15 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="590" y="1470" as="sourcePoint" />
             <mxPoint x="640" y="1420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i29Szbcjt233VwHBPudE-11" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;5- Générer l&#39;artefacts de l&#39;application&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="131" y="1725" width="380" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="i29Szbcjt233VwHBPudE-12" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="i29Szbcjt233VwHBPudE-9" target="i29Szbcjt233VwHBPudE-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="1662" as="sourcePoint" />
+            <mxPoint x="560" y="1725" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
